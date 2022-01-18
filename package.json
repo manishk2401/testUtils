@@ -1,5 +1,6 @@
 {
   "name": "textutils",
+  "homepage": "https://manishk2401.github.io/textUtils",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
